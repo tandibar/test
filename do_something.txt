@@ -1,7 +1,6 @@
 did something
 and something else
 
-with buildheroes continous integration gets a game
-
+with buildheroes continous integration becomes a game
 
 mit buildheroes wird continous integration zum spiel
