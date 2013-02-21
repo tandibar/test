@@ -2,4 +2,4 @@ language: ruby
 rvm:
   - "1.9.3"
 notifications:
-  webhooks: https://www.buildheroes.com/api/projects/8e9dfab20dd81fef5b3631b596b6d9ce8d158871/builds
+  webhooks: https://www.buildheroes.com/api/projects/8e57c48a5a501be154de5b92aa11607698d76f7b/builds
